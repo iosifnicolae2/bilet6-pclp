@@ -1,0 +1,3 @@
+/home/iosif/Documents/Scoala/Bilet6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/iosif/Documents/Scoala/Bilet6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/iosif/Documents/Scoala/Bilet6/cmake-build-debug/CMakeFiles/Bilet6.dir

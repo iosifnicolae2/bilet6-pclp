@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/Bilet6.dir/main.cpp.o  -o Bilet6 
